@@ -131,20 +131,19 @@
 	
     <div class="container">
         <div class="footer">
-          <div class="footer-text">©&nbsp;2014 Pivotal Software, Inc.  </div>
+          <div class="footer-text">ï¿½&nbsp;2014 Pivotal Software, Inc.  </div>
           <div class="footer-poweredby"><img src="resources/img/PoweredByPivotal.png" alt="Powered By Pivotal "></div>
 	    </div>
 	</div>  		
   		
 
+<script type="text/javascript" src="/resources/js/jquery-1.8.3.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/resources/js/d3.v3.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/resources/js/rainbowvis.js" charset="UTF-8"></script>
 
-  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/d3/2.10.0/d3.v2.min.js"></script>
-<script src="resources/js/rainbowvis.js"></script>
+<script type="text/javascript" src="/resources/js/histograms.js" charset="UTF-8"></script>
 
-<script src="/resources/js/histograms.js"></script>
-
-<script lang="javascript">//<![CDATA[ 
+<script lang="javascript" charset="UTF-8">//<![CDATA[
 
                                      
 function startStream(){
